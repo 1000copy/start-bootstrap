@@ -16,5 +16,6 @@ pandoc -o bootstrapbook.epub \
 	book/adv/4.popup.md\
 	book/layout/1.layout.md\
 	book/layout/2.layoutWhy12.md\
-	book/2.pack.md
-	
+	book/2.pack.md\
+	book/9.paperback.md\
+	--toc --toc-depth=2 
