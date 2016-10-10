@@ -13,4 +13,5 @@
    * list
    * span
    * img
+   * button
 
