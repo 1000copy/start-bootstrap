@@ -6,6 +6,6 @@
 * [前言](book/0.perface.md)
 * 基础
 * 后记
-* 基础类
+* [基础类](book)
    * div
 
