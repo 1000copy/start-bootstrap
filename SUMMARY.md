@@ -4,7 +4,7 @@
 * [打包查看](book/2.pack.md)
 * [实验环境](book/1.1env.md)
 * [前言](book/0.perface.md)
-* 基础
+* [基础](book/9.paperback.md)
 * [基础类](book)
    * div
 * 后记
