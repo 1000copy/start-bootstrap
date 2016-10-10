@@ -11,4 +11,5 @@
 * 基础类
    * div
    * list
+   * span
 
