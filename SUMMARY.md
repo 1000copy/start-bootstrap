@@ -14,4 +14,5 @@
    * span
    * img
    * button
+   * input
 
