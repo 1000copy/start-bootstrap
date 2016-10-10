@@ -15,4 +15,5 @@
    * img
    * button
    * input
+   * form
 
