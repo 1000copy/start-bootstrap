@@ -21,5 +21,5 @@ Bootstrap是一个CSS框架，也是事实上的前端UI标准。有了此框架
 
 ## 出品
 
-[http小书](http://www.ituring.com.cn/book/1791) http://www.ituring.com.cn/book/1791
-[Git小书](http://www.ituring.com.cn/book/1870) http://www.ituring.com.cn/book/1870
+[http小书](http://www.ituring.com.cn/book/1791) 
+[Git小书](http://www.ituring.com.cn/book/1870) 
