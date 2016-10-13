@@ -16,8 +16,8 @@
    * [navbar](book/adv/3.navbar.md)
    * [popup](book/adv/4.popup.md)
 * 布局
-   * [布局](book/adv/1.layout.md)
-   * [12分栏](book/adv/2.layoutWhy12.md)
+   * [布局](book/layout/1.layout.md)
+   * [12分栏](book/layout/2.layoutWhy12.md)
 * [打包查看](book/2.pack.md)
 * [后记](book/9.paperback.md)
 
