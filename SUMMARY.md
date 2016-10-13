@@ -19,6 +19,6 @@
 * 布局
    * [布局](book/adv/1.layout.md)
    * [12分栏](book/adv/2.layoutWhy12.md)
-* [打包查看](book/basic/1.div.md)
+* [打包查看](book/2.pack)
 * [后记](book/9.paperback.md)
 
