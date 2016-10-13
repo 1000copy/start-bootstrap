@@ -6,12 +6,12 @@
 * [实验环境](book/1.1env.md)
 * [前言](book/0.perface.md)
 * 基础类
-   * [div](book/basic/1.div.md)
    * list
    * span
    * img
    * button
    * input
    * form
+   * div
 * [后记](book/9.paperback.md)
 
