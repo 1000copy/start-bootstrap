@@ -26,4 +26,4 @@ Bootstrap是一个CSS框架，也是事实上的前端UI标准。有了此框架
 
 ## 打赏
 
-  ![打赏](book/money.jpeg=100x20)
+  <img src="book/money.jpeg" alt="打赏" style="width: 100px;"/>
