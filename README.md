@@ -12,10 +12,14 @@ Bootstrap是一个CSS框架，也是事实上的前端UI标准。有了此框架
 
 现在，它就摆在你的面前。
 
-##关于作者
+## 关于
 
 作者：刘传君
 
-创建过产品，创过业。不好动，读书机器。倾慕unix哲学，以此书略表致敬。
+创建过产品，创过业。爱读书，求甚解。
+可以通过 1000copy#gmail.com 联系到我
 
-可以通过 1000copy#gmail.com 联系到我。
+## 出品
+
+[http小书](http://www.ituring.com.cn/book/1791) http://www.ituring.com.cn/book/1791
+[Git小书](http://www.ituring.com.cn/book/1870) http://www.ituring.com.cn/book/1870
