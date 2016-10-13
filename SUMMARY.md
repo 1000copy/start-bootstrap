@@ -7,11 +7,10 @@
 * [前言](book/0.perface.md)
 * 基础类
    * list
-   * span
+   * [span](book/basic/1.div.md)
    * img
    * button
    * input
    * form
-   * [div](book/basic/1.div.md)
 * [后记](book/9.paperback.md)
 
