@@ -6,8 +6,7 @@
 * [实验环境](book/1.1env.md)
 * [前言](book/0.perface.md)
 * 基础类
-   * list
-   * [span](book/basic/1.div.md)
+   * [list](book/basic/1.div.md)
    * img
    * button
    * input
