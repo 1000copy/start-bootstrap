@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [实验环境](book/1.1env.md)
-* [前言](book/0.perface.md)
 * 基础类
    * [list](book/basic/2.list.md)
    * [span](book/basic/3.span.md)
@@ -19,6 +18,6 @@
 * 布局
    * [布局](book/adv/1.layout.md)
    * [12分栏](book/adv/2.layoutWhy12.md)
-* [打包查看](book/2.pack)
+* [打包查看](book/2.pack.md)
 * [后记](book/9.paperback.md)
 
