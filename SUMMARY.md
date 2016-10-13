@@ -8,7 +8,7 @@
    * [img](book/basic/4.img.md)
    * [button](book/basic/5.button.md)
    * [input](book/basic/6.input.md)
-   * [form](book/basic/7.form)
+   * [form](book/basic/7.form.md)
 * 高级类
    * [dropdown](book/adv/0.dropdown.md)
    * [jumbotron](book/adv/1.jumbotron.md)
