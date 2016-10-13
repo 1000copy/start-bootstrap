@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](book/0.perface.md)
+* [Introduction](README.md)
 * [实验环境](book/1.1env.md)
 * 基础类
    * [list](book/basic/2.list.md)
